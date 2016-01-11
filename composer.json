@@ -5,6 +5,7 @@
     "homepage": "http://devbay.net/",
     "type": "library",
     "license": "Apache-2.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "David T. Sadler",
